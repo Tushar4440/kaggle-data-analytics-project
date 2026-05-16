@@ -1,5 +1,7 @@
 # Shipment Order Data analysis project
 
+🚀 **Live Dashboard:** [View on Streamlit](https://shipment-order-dashboard-3kehm8uvrqfdmi9sasmpvr.streamlit.app/)
+
 ## Project Overview
 This project performs an end-to-end data analysis on a shipment orders dataset sourced from Kaggle. The project includes data extraction using the Kaggle API, data cleaning and transformation using Python (Pandas), in-depth data analysis using SQL, and an interactive data visualization dashboard built with Streamlit.
 
